@@ -5,6 +5,7 @@ export interface Ads {
   hourStart: string;
   id: string;
   name: string;
+  discord: string;
   useVoiceChannel: boolean;
   weekDays: string[];
   yearsPlaying: number;
