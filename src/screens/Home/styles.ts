@@ -5,14 +5,26 @@ export const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
   },
+  header: {
+    width: '100%',
+    flexDirection: 'row',
+    alignItems: 'center',
+    paddingHorizontal: 32,
+    marginTop: 12,
+    justifyContent: 'space-between',
+  },
+  right: {
+    width: 20,
+    height: 20,
+  },
   logo: {
     width: 214,
     height: 120,
-    marginTop: 74,
-    marginBottom: 48,
+    marginTop: 36,
+    marginBottom: 36,
   },
   contentList: {
     paddingLeft: 32,
     paddingRight: 64,
-  }
+  },
 });

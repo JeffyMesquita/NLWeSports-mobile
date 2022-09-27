@@ -44,7 +44,7 @@ export function Game() {
     loadAdsList();
   }, []);
 
-  return (
+    return (
     <Background>
       <SafeAreaView style={styles.container}>
         <View style={styles.header}>
