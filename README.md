@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="gameplay" src=".github/logo.png" width="160px">
+  <img alt="DuoMatch" src=".github/logo.png" width="160px">
 </p>
 
 <p align="center">
